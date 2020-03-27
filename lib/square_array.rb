@@ -7,6 +7,7 @@ while array[counter] do
 #  new_numbers[counter] = array[counter]**2
 #  puts new_numbers[counter]
   array[counter] = array[counter]**2
+  puts array[counter]
   counter +=1
 end
 end
